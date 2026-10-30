@@ -1,0 +1,31 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "A clean, responsive, and animated personal portfolio website built with pure frontend technologies: **vanilla HTML5, CSS3, and JavaScript**. Zero frameworks, zero build steps, and zero external runtime dependencies.",
+  "main": "script.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jay-sambhu/aashishpokhrel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jay-sambhu/aashishpokhrel/issues"
+  },
+  "homepage": "https://github.com/jay-sambhu/aashishpokhrel#readme",
+  "dependencies": {
+    "@types/node": "^26.6.6",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "next": "^16.4.3",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "typescript": "^7.0.2"
+  }
+}
