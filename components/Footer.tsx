@@ -26,6 +26,8 @@ export default function Footer() {
             <a href="#youtube" className="footer-link">YouTube</a>
             <a href="#contact" className="footer-link">Contact</a>
             <a href="https://github.com/jay-sambhu" target="_blank" rel="noopener noreferrer" className="footer-link">GitHub</a>
+            <a href="https://www.linkedin.com/in/aashishpokhrel01/" target="_blank" rel="noopener noreferrer" className="footer-link">LinkedIn</a>
+            <a href="https://www.instagram.com/owl.91381990/" target="_blank" rel="noopener noreferrer" className="footer-link">Instagram</a>
           </div>
         </div>
 
